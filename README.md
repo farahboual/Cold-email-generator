@@ -23,26 +23,11 @@ The diagram below outlines the system architecture and how different components 
  Architecture Diagram
 
 
-Step 1: Configure Your API Key
-Go to Groq Console and generate a new API key.
-Add it to the .env file located in the app/ directory:
+### ⚙️ Getting Started
 
-ini
-Copy
-Edit
-GROQ_API_KEY=your_api_key_here
-Step 2: Install the Dependencies
-Run the following command to install all required Python packages:
+#### Step 1: Configure Your API Key
+Go to [Groq Console](https://console.groq.com/keys) and generate a new API key.  
+Add it to the `.env` file located in the `app/` directory:
 
-nginx
-Copy
-Edit
-pip install -r requirements.txt
-Step 3: Launch the Application
-To start the Streamlit app, use:
 
-arduino
-Copy
-Edit
-streamlit run app/main.py
 
