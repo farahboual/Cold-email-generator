@@ -43,7 +43,7 @@ class Chain:
         Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AI_in_Need 
         in fulfilling their needs.
         Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-        Remember you are Mohan, BDE at AI_in_Need. 
+        Remember you are Farah, BDE at AI_in_Need. 
         Do not provide a preamble.
         ### EMAIL (NO PREAMBLE):
     
