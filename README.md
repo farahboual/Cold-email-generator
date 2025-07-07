@@ -9,7 +9,11 @@ Farah, the business development executive at AI_in_Need, uses this app to automa
 ## 📸 Demo Screenshot
 ![image](https://github.com/user-attachments/assets/df906e0b-4f9b-4d11-a690-62eebbcd30f1)
 
-[coldemailgenfinal.webm](https://github.com/user-attachments/assets/09649b63-61d5-4934-a4e2-e1a19ac25d27)
+
+
+
+https://github.com/user-attachments/assets/a3006338-a67b-4a42-bf33-a9142bce6d75
+
 
 
 ## Architecture Overview
