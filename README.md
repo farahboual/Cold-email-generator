@@ -29,5 +29,23 @@ The diagram below outlines the system architecture and how different components 
 Go to [Groq Console](https://console.groq.com/keys) and generate a new API key.  
 Add it to the `.env` file located in the `app/` directory:
 
+GROQ_API_KEY=your_api_key_here
+
+shell
+Copy
+Edit
+
+#### Step 2: Install the Dependencies
+
+pip install -r requirements.txt
+
+shell
+Copy
+Edit
+
+#### Step 3: Launch the Application
+
+streamlit run app/main.py
+
 
 
