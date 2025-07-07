@@ -6,12 +6,14 @@ Imagine Nike is looking to hire a Principal Software Engineer. Instead of going 
 
 Farah, the business development executive at AI_in_Need, uses this app to automatically craft a tailored cold email for Nike—highlighting relevant projects and skills that align with the job posting. This not only saves Nike time and resources, but also creates a business opportunity for AI_in_Need.
 
-📸 Demo Screenshot
+## 📸 Demo Screenshot
 ![image](https://github.com/user-attachments/assets/df906e0b-4f9b-4d11-a690-62eebbcd30f1)
+[coldemailgenfinal.webm](https://github.com/user-attachments/assets/bbc79a11-085f-441d-8535-83cca51abd3f)
 
 
 ## Architecture Overview
 The diagram below outlines the system architecture and how different components interact to power the email generation process:
+
 
  Architecture Diagram
 
@@ -21,9 +23,14 @@ Step 1: Configure Your API Key
 Go to Groq Console and generate a new API key.
 
 Add it to the .env file located in the app/ directory:
+
 GROQ_API_KEY=your_api_key_here
+
 Step 2: Install the Dependencies
+
 pip install -r requirements.txt
+
 Step 3: Run the App
+
 streamlit run app/main.py
 
